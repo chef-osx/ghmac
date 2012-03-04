@@ -5,6 +5,9 @@ Installs GitHub Mac.
 
 Changes
 =======
+## v1.2.0:
+
+* Update to GitHub for Mac version 1.2.
 
 ## v1.1.0:
 

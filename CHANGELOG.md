@@ -1,7 +1,8 @@
-## v1.2.4:
+## v1.3.0:
 
 * Update to GitHub for Mac version 60 (current latest)
 
+## v1.2.4:
 ## v1.2.2:
 
 * The version numbers are cheap release.

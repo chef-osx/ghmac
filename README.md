@@ -11,10 +11,10 @@ OS X and a GitHub account.
 Attributes
 ==========
 
-* `node['ghmac']['url']` - URL to retrieve the zip file. Default is 1.0 (from version below.
-* `node['ghmac']['checksum']` - sha256sum of the zip file. Default is 1.0's sha256sum.
-* `node['ghmac']['version']` - version of GitHub Mac. Default "1.0".
-* `node['ghmac']['install_to']` - location to extract the .zip. Default "/Applications"
+* `node['ghmac']['url']` - URL to retrieve the zip file.
+* `node['ghmac']['checksum']` - sha256sum of the zip file.
+* `node['ghmac']['version']` - version of GitHub Mac.
+* `node['ghmac']['install_to']` - location to extract the .zip.
 
 Usage
 =====
@@ -26,7 +26,7 @@ License and Author
 
 Author:: Joshua Timberman (<cookbooks@housepub.org>)
 
-Copyright 2011, Joshua Timberman
+Copyright 2011-2012, Joshua Timberman
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

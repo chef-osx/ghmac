@@ -16,7 +16,7 @@
 # limitations under the License.
 #
 
-default['ghmac']['version'] = '1.2'
+default['ghmac']['version'] = '60'
 default['ghmac']['url'] = "https://github-central.s3.amazonaws.com/mac/GitHub%20for%20Mac%20#{ghmac['version']}.zip"
-default['ghmac']['checksum'] = "bc3e0e159bcfbe07bdb78be73c7fa1d06300d91ab0cf5aff33d61025754da00f"
+default['ghmac']['checksum'] = 'a91fdf7545e873b0795b72d2a656864bce1e89b3080c42da1cce9168710348aa'
 default['ghmac']['install_to'] = "/Applications"

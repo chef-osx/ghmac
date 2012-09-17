@@ -3,16 +3,6 @@ Description
 
 Installs GitHub Mac.
 
-Changes
-=======
-## v1.2.0:
-
-* Update to GitHub for Mac version 1.2.
-
-## v1.1.0:
-
-* Update to GitHub for Mac version 1.1.
-
 Requirements
 ============
 
@@ -20,8 +10,6 @@ OS X and a GitHub account (to use the app).
 
 Attributes
 ==========
-
-See `attributes/default.rb` for default values.
 
 * `node['ghmac']['url']` - URL to retrieve the zip file.
 * `node['ghmac']['checksum']` - sha256sum of the zip file.
@@ -36,9 +24,9 @@ Add 'ghmac' recipe to a node and run Chef.
 License and Author
 ==================
 
-Author:: Joshua Timberman <opensource@housepub.org>
-Copyright:: Copyright (c) 2011, Joshua Timberman
-License:: Apache License, Version 2.0
+Author Joshua Timberman <opensource@housepub.org>
+
+Copyright 2011-2012, Joshua Timberman
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

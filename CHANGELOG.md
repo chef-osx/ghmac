@@ -1,6 +1,11 @@
-## v1.3.2
+## v1.3.6:
 
-* Update to GitHub for Mac version 60 (current latest)
+* Update to GitHub for Mac version 200 (current latest)
+
+## v1.3.4:
+## v1.3.2:
+
+* Update to GitHub for Mac version 60
 
 ## v1.3.0:
 ## v1.2.4:

@@ -1,4 +1,4 @@
-## v1.3.2
+## v1.3.2:
 
 * Update to GitHub for Mac version 60 (current latest)
 
